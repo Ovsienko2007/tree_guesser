@@ -1,0 +1,5 @@
+Build/
+.cache/
+*.json
+*.txt
+DUMP/
