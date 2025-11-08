@@ -10,7 +10,6 @@ int main(){
     check_elem(tree);
 
     DUMP(tree);
-    print_data(tree, "ХУЕТА.txt");
 
-    return 0;
+    destroy_tree(tree);
 }
